@@ -1,0 +1,14 @@
+Package: xthemes
+Version: 0.1
+Date: 2020-11-12
+Title: Custom xaringan Themes
+Authors@R: c(person("Theresa", "Gessler", role = c("aut", "cre"),
+                     email = "gessler@ipz.uzh.ch"))
+Author: Theresa Gessler [aut, cre]
+Maintainer: Theresa Gessler <gessler@ipz.uzh.ch>
+Depends: R (>= 3.1.0), xaringan
+Suggests: 
+Description: Adds some custom themes to xaringan.
+License: GPL (>= 2)
+URL: https://www.r-project.org, http://www.another.url
+BugReports: https://pkgname.bugtracker.url
