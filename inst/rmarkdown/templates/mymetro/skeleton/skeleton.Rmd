@@ -1,0 +1,16 @@
+---
+output:
+  xaringan::moon_reader:
+    css: ["default", "mymetro.css", "mymetro-fonts.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+layout: true
+
+.footer []
+
+---
